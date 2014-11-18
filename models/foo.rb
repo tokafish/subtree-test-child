@@ -1,6 +1,6 @@
 class Foo < ActiveRecord::Base
 
   def something
-    123
+    1234
   end
 end
